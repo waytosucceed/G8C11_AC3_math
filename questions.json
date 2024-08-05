@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Shirley wants to price a batch of exotic fruits at $12.345 per box. If she needs to calculate the price for 10,000 boxes, what is the total price?",
+    "options": ["$12,345", "$123,450", "$1,234,500", "$1,234.50"],
+    "correct": 1
+  },
+  {
+    "question": "She decides to sell premium berries at $0.6789 per pint. If a wholesaler buys 100,000 pints, what is the total cost?",
+    "options": ["$6,789", "$67,890", "$678,900", "$678,90"],
+    "correct": 1
+  },
+  {
+    "question": "Shirley sets the price of gourmet peaches at $45.678 per crate. If a distributor orders 1,000 crates, what is the total price?",
+    "options": ["$456,780", "$4,567,800", "$45,678", "$456.78"],
+    "correct": 2
+  },
+  {
+    "question": "For a special deal, she prices mixed fruit baskets at $0.09123 each. If she sells 100,000 baskets, what is the total revenue?",
+    "options": ["$9,123", "$91,230", "$912,300", "$91.23"],
+    "correct": 0
+  },
+  {
+    "question": "Shirley prices organic mangoes at $123.456 per dozen. If an export company buys 10,000 dozen, what is the total price?",
+    "options": ["$12,345,600", "$1,234,560", "$123,456", "$1,234.56"],
+    "correct": 1
+  },
+  {
+    "question": "Shirley wants to round the total sales amount of $12,345.6789 from a large fruit order to the nearest hundredth. What is the rounded amount?",
+    "options": ["$12,345.67", "$12,345.68", "$12,345.70", "$12,345.69"],
+    "correct": 1
+  },
+  {
+    "question": "Shirley has a premium fruit bundle priced at $987.6543. She decides to round this price to the nearest tenth. What is the rounded price?",
+    "options": ["$987.6", "$987.65", "$987.66", "$987.7"],
+    "correct": 3
+  },
+  {
+    "question": "The total revenue for a week is $45,678.9123. Shirley wants to report this amount rounded to the nearest whole number. What is the rounded revenue?",
+    "options": ["$45,678", "$45,680", "$45,679", "$45,678.91"],
+    "correct": 2
+  },
+  {
+    "question": "Shirley calculates the average price per fruit in a shipment as $3.14159. She wants to round this average to the nearest thousandth. What is the rounded average price?",
+    "options": ["$3.141", "$3.142", "$3.140", "$3.1415"],
+    "correct": 1
+  },
+  {
+    "question": "The price for a large order of organic apples comes to $21,234.56789. Shirley needs to round this price to the nearest hundredth for the invoice. What is the rounded price?",
+    "options": ["$21,234.56", "$21,234.58", "$21,235.00", "$21,234.57"],
+    "correct": 3
+  },
+  {
+    "question": "Shirley offers a 0.125% discount on bulk purchases of apples. What is this percentage as a decimal?",
+    "options": ["0.0125", "0.00125", "0.000125", "1.25"],
+    "correct": 1
+  },
+  {
+    "question": "A special sale gives a 78.95% discount on overripe bananas. What is this percentage as a decimal?",
+    "options": ["0.07895", "7.895", "0.7895", "0.007895"],
+    "correct": 2
+  },
+  {
+    "question": "Shirley decides to apply a 0.375% promotional tax on a new fruit variety. What is this percentage as a decimal?",
+    "options": ["0.00375", "0.0375", "0.000375", "0.375"],
+    "correct": 0
+  },
+  {
+    "question": "For a special holiday offer, Shirley gives a 99.999% discount on one lucky customer's purchase. What is this percentage as a decimal?",
+    "options": ["0.9999", "0.099999", "0.99999", "0.009999"],
+    "correct": 2
+  },
+  {
+    "question": "Shirley calculates her net profit margin for the year as 12.345%. What is this percentage as a decimal?",
+    "options": ["1.2345", "0.12345", "0.012345", "12.345"],
+    "correct": 1
+  },
+  {
+    "question": "Shirley orders 6.21 metres of premium silk at $32.5 per metre. What is the total cost?",
+    "options": ["$204.225", "$204.835", "$201.825", "$201.835"],
+    "correct": 2
+  },
+  {
+    "question": "She packages 4.204 litres of organic honey at $60.5 per litre. What is the total revenue?",
+    "options": ["$254.3420", "$264.2420", "$224.3420", "$254.2420"],
+    "correct": 0
+  },
+  {
+    "question": "Shirley purchases 7.51 litres of cold-pressed olive oil at $9.2 per litre. What is the total cost?",
+    "options": ["$68.092", "$63.002", "$62.092", "$69.092"],
+    "correct": 3
+  },
+  {
+    "question": "Shirley buys 3.1416 kg of specialty cheese at $18.75 per kg. What is the total cost?",
+    "options": ["$58.998", "$58.975", "$58.905", "$58.855"],
+    "correct": 2
+  },
+  {
+    "question": "She sells 2.41525 litres of artisanal vinegar at $9.33 per litre. What is the total revenue?",
+    "options": ["$22.5342825", "$23.4587625", "$27.5368925", "$27.5342815"],
+    "correct": 0
+  }
+]
